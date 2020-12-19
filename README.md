@@ -1,9 +1,14 @@
 # pfb_benchmark
 PFB的设计参考代码
 
-运行：
+# ubuntu20.04上环境的搭建：
 ```
-./npr_test.py
+sudo apt install python3-numpy python3-scipy python3-matplotlib
+```
+
+# 运行：
+```
+python3 ./npr_test.py
 ```
 
 参考文献：
